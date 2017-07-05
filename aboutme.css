@@ -2,6 +2,7 @@
   font-family: TakenByVultures;
     src: url(https://anvithak7.github.io/portfolio/TakenByVultures.otf);
     font-stretch: "ultra-expanded";
+    font-weight: "500";
 }
 body {
   background-color:cadetblue;
