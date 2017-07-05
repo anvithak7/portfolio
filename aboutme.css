@@ -1,1 +1,9 @@
+body {
+  background-color:cadetblue;
+}
 
+h1 {
+  color:aquamarine
+    border: 3px dashed powderblue
+    font: 400 3.5em/125% 'Pacifico', Helvetica, Serif;
+}
