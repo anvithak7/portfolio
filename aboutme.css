@@ -1,6 +1,6 @@
 @font-face {
-  font-family: takenbyvultures
-    src: https://anvithak7.github.io/portfolio/Taken by Vultures Demo.otf
+  font-family: TakenByVultures;
+    src: url(https://anvithak7.github.io/portfolio/TakenByVultures.otf);
 }
 body {
   background-color:cadetblue;
@@ -9,5 +9,5 @@ body {
 h1 {
   color:aquamarine;
   border: 3px dashed powderblue;
-  font-family: "takenbyvultures", Helvetica, sans-serif;
+  font-family: "TakenByVultures", Helvetica, sans-serif;
 }
