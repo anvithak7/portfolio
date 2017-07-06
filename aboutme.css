@@ -2,6 +2,12 @@
   font-family: TakenByVultures;
     src: url(https://anvithak7.github.io/portfolio/TakenByVultures.otf);
 }
+
+@font-face {
+  font-family: TheConstellationofHeracles;
+    src: url(https://anvithak7.github.io/portfolio/TheConstellationOfHeracles.ttf)
+}
+
 body {
   background-color:cadetblue;
 }
@@ -9,6 +15,6 @@ body {
 h1 {
   color:aquamarine;
   border: 3px dashed powderblue;
-  font-family: TakenByVultures, Georgia;
-  font-size: 700px;
+  font-family: TheConstellationofHeracles, Georgia, Helvetica;
+  font-size: 200px;
 }
