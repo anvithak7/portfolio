@@ -9,8 +9,13 @@
 }
 
 @font-face {
-  font-family: HazelGrace
+  font-family: HazelGrace;
     src: url(https://anvithak7.github.io/portfolio/HazelGrace.ttf);
+}
+
+@font-face {
+  font-family: MathildeCastleland;
+  src: url(https://anvithak7.github.io/portfolio/MathildeCastleland.ttf);
 }
 
 body {
@@ -18,7 +23,7 @@ body {
 }
 
 h1{
-  
+  font-family: MathildeCastleland, Georgia, Helvetica;
 }
 
 h2 {
