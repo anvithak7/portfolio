@@ -8,12 +8,19 @@
     src: url(https://anvithak7.github.io/portfolio/TheConstellationOfHeracles.ttf);
 }
 
+@font-face {
+  font-family: HazelGrace
+    src: url(https://anvithak7.github.io/portfolio/HazelGrace.ttf);
+}
+
 body {
   background-color:cadetblue;
 }
+
 h1{
   
 }
+
 h2 {
   color:aquamarine;
   border: 3px dashed powderblue;
