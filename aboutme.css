@@ -27,10 +27,7 @@ h1{
   color:aquamarine;
   font-weight: 100;
   font-size: 120px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+  text-align: center;
 }
 
 h2 {
