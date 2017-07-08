@@ -24,6 +24,10 @@ body {
 
 h1{
   font-family: MathildeCastleland, Georgia, Helvetica;
+  color:aquamarine;
+  border: 3px dashed powderblue;
+  font-size: 120px;
+  margin-top: 0
 }
 
 h2 {
@@ -32,8 +36,8 @@ h2 {
   font-family: TheConstellationofHeracles, Georgia, Helvetica;
   font-size: 95px;
   font-weight: 100;
-  margin-left: 0px;
-  margin-right: 0px;
+  margin-left: 0;
+  margin-right: 0;
 }
 p {
   img {
