@@ -33,13 +33,13 @@ h1{
 }
 
 h2 {
-  color:aquamarine;
+  color:turquoise;
   border: 3px dashed powderblue;
   font-family: TheConstellationofHeracles, Georgia, Helvetica;
   font-size: 95px;
   font-weight: 100;
   margin-left: auto;
-  margin-right: auto;
+  margin-right: 100;
 }
 
 img {
