@@ -29,6 +29,12 @@ h1{
   font-size: 120px;
   text-align: center;
   padding: 0px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+nav {
+  margin-top: 50px;
 }
 
 h2 {
