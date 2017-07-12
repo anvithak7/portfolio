@@ -1,21 +1,26 @@
 @font-face {
   font-family: TakenByVultures;
-    src: url(https://anvithak7.github.io/portfolio/TakenByVultures.otf);
+    src: url(https://anvithak7.github.io/portfolio/Fonts/TakenByVultures.otf);
 }
 
 @font-face {
   font-family: TheConstellationofHeracles;
-    src: url(https://anvithak7.github.io/portfolio/TheConstellationOfHeracles.ttf);
+    src: url(https://anvithak7.github.io/portfolio/Fonts/TheConstellationOfHeracles.ttf);
 }
 
 @font-face {
   font-family: HazelGrace;
-    src: url(https://anvithak7.github.io/portfolio/HazelGrace.ttf);
+    src: url(https://anvithak7.github.io/portfolio/Fonts/HazelGrace.ttf);
 }
 
 @font-face {
   font-family: MathildeCastleland;
-  src: url(https://anvithak7.github.io/portfolio/MathildeCastleland.ttf);
+  src: url(https://anvithak7.github.io/portfolio/Fonts/MathildeCastleland.ttf);
+}
+
+@font-face {
+  font-family: Immperator;
+  src: url(https://anvithak7.github.io/portfolio/Fonts/Imperator.ttf);
 }
 
 body {
@@ -35,7 +40,7 @@ h1{
 
 nav {
   margin-top: 20px;
-  font-family: , Georgia, Helvetica, serif;
+  font-family: Imperator, Georgia, Helvetica, serif;
   font-size: 50px;
 }
 
