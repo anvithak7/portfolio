@@ -39,9 +39,10 @@ h1{
 }
 
 nav {
-  margin-top: 20px;
+  margin-top: 15px;
   font-family: Imperator, Georgia, Helvetica, serif;
-  font-size: 50px;
+  font-size: 24px;
+  color: #8cdbf3;
 }
 
 h2 {
