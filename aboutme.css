@@ -41,10 +41,30 @@ h1{
 nav {
   margin-top: 15px;
   font-family: Imperator, Georgia, Helvetica, serif;
-  font-size: 12px;
+  font-size: 20px;
   color: #8cdbf3;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+a:link {
+  text-decoration: none;
+  background-color: aliceblue; 
+}
+
+a:visited {
+  text-decoration: none;
+  background-color: aliceblue; 
+}
+
+a:hover {
+  text-decoration: none;
+  background-color: aliceblue; 
+}
+
+a:active {
+  text-decoration: none;
+  background-color: aliceblue; 
 }
 
 h2 {
