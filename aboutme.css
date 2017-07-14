@@ -41,8 +41,10 @@ h1{
 nav {
   margin-top: 15px;
   font-family: Imperator, Georgia, Helvetica, serif;
-  font-size: 24px;
+  font-size: 12px;
   color: #8cdbf3;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 h2 {
