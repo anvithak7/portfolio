@@ -45,31 +45,28 @@ nav {
   color: #8cdbf3;
   padding-left: 20px;
   padding-right: 20px;
+  background-color: #79cee0
 }
 
 a:link {
   text-decoration: none;
   color: 
   background-color: aliceblue; 
-  border: 3px dashed powderblue;
 }
 
 a:visited {
   text-decoration: none;
   background-color: aliceblue; 
-  border: 3px dashed powderblue;
 }
 
 a:hover {
   text-decoration: none;
   background-color: lightskyblue; 
-  border: 3px dashed darkslateblue;
 }
 
 a:active {
   text-decoration: none;
   background-color: aliceblue; 
-  border: 3px dashed powderblue;
 }
 
 h2 {
