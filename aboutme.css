@@ -50,18 +50,20 @@ nav {
 
 a:link {
   text-decoration: none;
-  color: 
+  color: #12404e;
   background-color: aliceblue; 
 }
 
 a:visited {
   text-decoration: none;
+  color: #12404e;
   background-color: aliceblue; 
 }
 
 a:hover {
   text-decoration: none;
-  background-color: lightskyblue; 
+  color: floralwhite;
+  background-color: cadetblue; 
 }
 
 a:active {
